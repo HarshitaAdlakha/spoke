@@ -6,7 +6,7 @@ You're walking to a Citi Bike dock and the app says there are three bikes. You g
 
 Built by **Paras Adlakha** and **Harshita Adlakha** for the **Supabase + Sodabase + BuilderBase NYC Hackathon** (4 November 2026).
 
-**▶️ [Open the live app](https://harshitaadlakha.github.io/spoke/app/)** · [Data health view](https://harshitaadlakha.github.io/spoke/app/#health) · **🎬 [2-minute demo](docs/video/Spoke-demo-2min.mp4)** · [3-minute pitch](docs/video/Spoke-pitch-3min.mp4) · **📑 [Slides (PDF)](docs/slides/Spoke-slides.pdf)** · [PowerPoint](docs/slides/Spoke-slides.pptx) · [Project page](https://harshitaadlakha.github.io/spoke/) · [Market brief](docs/market-brief.html)
+**▶️ [Open the live app](https://parasadlakha.github.io/spoke/app/)** · [Data health view](https://parasadlakha.github.io/spoke/app/#health) · **🎬 [2-minute demo](docs/video/Spoke-demo-2min.mp4)** · [3-minute pitch](docs/video/Spoke-pitch-3min.mp4) · **📑 [Slides (PDF)](docs/slides/Spoke-slides.pdf)** · [PowerPoint](docs/slides/Spoke-slides.pptx) · [Project page](https://parasadlakha.github.io/spoke/) · [Market brief](docs/market-brief.html)
 
 ![Spoke: live station map on the left, a trust-gated answer on the right](docs/img/answer.png)
 
@@ -323,7 +323,7 @@ npm test
 You need Node 22.6+, a Supabase account and the Supabase CLI (`npx supabase`).
 
 ```bash
-git clone https://github.com/HarshitaAdlakha/spoke && cd spoke
+git clone https://github.com/ParasAdlakha/spoke && cd spoke
 npm install
 cp .env.example .env            # fill SUPABASE_PROJECT_REF, SUPABASE_DB_PASSWORD, SPOKE_CRON_SECRET
 npx supabase login
@@ -397,7 +397,7 @@ test/                                   15 unit tests
 | **Paras Adlakha** | [github.com/ParasAdlakha](https://github.com/ParasAdlakha) |
 | **Harshita Adlakha** | [github.com/HarshitaAdlakha](https://github.com/HarshitaAdlakha) |
 
-The original repository lives at [github.com/ParasAdlakha/spoke](https://github.com/ParasAdlakha/spoke).
+The original repository lives at [github.com/HarshitaAdlakha/spoke](https://github.com/HarshitaAdlakha/spoke).
 
 ---
 
